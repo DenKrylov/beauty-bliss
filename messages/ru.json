@@ -1,0 +1,17 @@
+{
+  "HomePage": {
+    "title": "Beauty-Bliss!"
+  },
+  "feedback": {
+    "header": "Консультация специалиста",
+    "description:": "Оставьте заявку прямо сейчас и получите в подарок консультацию наших лучших специалистов бесплатно",
+    "button-send": "Отправить",
+    "input-first-name": "Имя"
+  },
+  "NotFound": {
+    "title": "Страница не найдена",
+    "description": "К сожалению, мы не смогли найти страницу, которую вы ищете.",
+    "button-home": "На главную",
+    "button-support":  "Contact support"
+  }
+}
