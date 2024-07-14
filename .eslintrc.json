@@ -5,6 +5,8 @@
     "quotes": ["error", "single"],
     "comma-dangle": ["error", "only-multiline"],
     "eol-last": ["error", "always"],
-    "camelcase": "error"
+    "camelcase": "error",
+    "no-trailing-spaces": "error",
+    "indent": ["error", 2, { "SwitchCase": 1 }]
   }
 }

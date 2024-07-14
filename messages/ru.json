@@ -1,5 +1,5 @@
 {
-  "HomePage": {
+  "Home": {
     "title": "Beauty-Bliss!"
   },
   "feedback": {
@@ -13,5 +13,12 @@
     "description": "К сожалению, мы не смогли найти страницу, которую вы ищете.",
     "button-home": "На главную",
     "button-support":  "Contact support"
+  },
+  "Login": {
+    "title": "Войдите в свой аккаунт",
+    "login": "Телефон или почта",
+    "password": "Пароль",
+    "forgot": "Забыли пароль",
+    "button": "Войти"
   }
 }

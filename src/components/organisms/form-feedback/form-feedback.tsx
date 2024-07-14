@@ -5,7 +5,7 @@ import { useTranslations } from 'next-intl';
 import { ChangeEvent, useCallback, useState } from 'react';
 
 export function FormFeedback(): JSX.Element {
-  const t = useTranslations('HomePage');
+  const t = useTranslations('Home');
   const [firstName, setFirstName] = useState<string>();
   const [lastName, setLastName] = useState<string>();
 

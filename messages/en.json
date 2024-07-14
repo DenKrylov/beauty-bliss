@@ -13,5 +13,12 @@
     "description": "К сожалению, мы не смогли найти страницу, которую вы ищете.",
     "button-home": "На главную",
     "button-support":  "Contact support"
+  },
+  "Login": {
+    "title": "Sign in to your account",
+    "login": "Phone or email",
+    "password": "Password",
+    "forgot": "Forgot password",
+    "button": "Sign in"
   }
 }

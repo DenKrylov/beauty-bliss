@@ -13,6 +13,18 @@ const config: Config = {
       lg: '976px',
       xl: '1440px',
     },
+    colors: {
+      'geist-foreground': '#fff',
+      'geist-background': '#000',
+      'accents-8': '#fafafa',
+      'accents-7': '#eaeaea',
+      'accents-6': '#999',
+      'accents-5': '#888',
+      'accents-4': '#666',
+      'accents-3': '#444',
+      'accents-2': '#333',
+      'accents-1': '#111'
+    },
     extend: {
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',

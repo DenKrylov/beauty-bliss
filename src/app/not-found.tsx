@@ -4,10 +4,10 @@ export default function NotFound() {
   const t = useTranslations('NotFound');
 
   return (
-    <main className="grid h-full place-items-center bg-white dark:bg-black px-6 py-24 sm:py-32 lg:px-8">
+    <main className="grid h-full place-items-center px-6 py-24 sm:py-32 lg:px-8">
       <div className="text-center">
         <p className="text-base font-semibold text-indigo-600">404</p>
-        <h2 className="mt-4 text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
+        <h2 className="mt-4 text-3xl font-bold tracking-tight sm:text-5xl">
           {t('title')}
         </h2>
         <p className="mt-6 text-base leading-7 text-gray-600">
